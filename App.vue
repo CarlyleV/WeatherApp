@@ -42,7 +42,7 @@
       name: 'App',
       data(){
         return{
-          api_key:'6378c63e6bcc3b3c68237a6154d68191',
+          api_key:'',
           url_base:'https://api.openweathermap.org/data/2.5/',
           weather:{},
 
